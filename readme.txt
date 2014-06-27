@@ -6,7 +6,7 @@ Tags: template, hierarchy, show,
 Requires at least: 3.8
 Tested up to: 3.9.1
 Stable tag: 4.3
-Plugin Name: Which Template
+Plugin Name: Which Template WordPress
 Plugin URI: http://coolestguidesontheplanet.com/codesnippet/show-wordpress-template/
 Description: Show which template you are using in WordPress by looking at the bottom of the page when logged in.
 Author: Neil Gee
@@ -26,7 +26,7 @@ This plugin will display the name of the WordPress Template in use for the curre
 
 This section describes how to install the plugin:
 
-1. Upload the `which-template` folder to the `/wp-content/plugins/` directory
+1. Upload the `which-wordpress-template` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Usage ==
