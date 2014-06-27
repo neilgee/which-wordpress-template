@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Which Template Used In WordPress
+Plugin Name: Which Template Am I
 Plugin URI: http://coolestguidesontheplanet.com/codesnippet/show-wordpress-template/
 Description: Show Which Template WordPress is Using
 Author: Neil Gee
